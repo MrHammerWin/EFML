@@ -1,5 +1,5 @@
 #hello {
-    margin-top: 100px;
+    margin-top: 200px;
     text-align: center;
 }
 #miss {
@@ -9,5 +9,5 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 20%;
 }
